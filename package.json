@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "author": "Nikola Rajkovic - @falconvk",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-bundle": "^4.3.1"
+  }
 }
